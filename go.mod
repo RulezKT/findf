@@ -1,3 +1,3 @@
-module github.com/RulezKT/findf/V1
+module findf
 
 go 1.22.2
